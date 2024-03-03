@@ -1,2 +1,2 @@
-## my-devops-journey
-Here, in these repo i will be outlining all my DevOps Learning Journey.
+## My-DevOps-Journey
+Here, in this repo, I will be outlining my DevOps Learning Journey.
